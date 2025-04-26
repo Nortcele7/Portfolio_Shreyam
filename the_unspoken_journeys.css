@@ -8,7 +8,8 @@
 
 
 .testimonials {
-    background-image: url(poems_background.jpg);
+    /* background-image: url(poems_background.jpg); */
+    background-color: black;
     background-size: cover;         /* Makes it cover the entire area */
     background-position: center;    /* Center the image */
     background-repeat: no-repeat;   /* Prevent tiling */
@@ -94,7 +95,7 @@ section {
     --bg-color: #fff;
     --snd-bg-color: #d5fafd;
     --text-color: #ffffff;
-    --main-color: #f243ff;
+    --main-color: #ea1919;
 }
 
 .heading
